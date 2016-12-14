@@ -1,0 +1,27 @@
+{
+  "name": "oq-color-name-hex",
+  "version": "1.0.0",
+  "description": "A JSON with color names and it’s values.返回颜色名和对应十六进制值的json数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenQuest/oq-color-name-hex.git"
+  },
+  "keywords": ["color-name", "hex", "json", "OpenQuest"],
+  "author": "lingshanjun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenQuest/oq-color-name-hex/issues"
+  },
+  "homepage": "https://github.com/OpenQuest/oq-color-name-hex#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-strip-comments": "^2.4.3",
+    "mocha": "^3.2.0"
+  }
+}
